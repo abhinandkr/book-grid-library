@@ -1,1 +1,1 @@
-export {BookDetails} from './types';
+export {BookDisplayItem} from './types';
