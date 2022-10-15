@@ -65,9 +65,6 @@
       "src/*.{js,ts}"
     ]
   },
-  "dependencies": {
-    "book-grid-library": "^0.0.0"
-  },
   "devDependencies": {
     "@commitlint/cli": "^7.1.2",
     "@commitlint/config-conventional": "^7.1.2",
